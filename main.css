@@ -1,0 +1,52 @@
+
+
+html{
+  background-color:  #f1f1f1;
+}
+
+
+
+
+tête-gauche{
+  width: 50%:
+    margin: 50px;
+}
+.tête-droite{
+  width: 35%;
+}
+
+.name{
+
+  font-size: 55px;
+ 
+  margin-left: 35px;
+  font-family:  Arial, Helvetica ou du sans-serif;
+  vertical-align: top; 
+}
+.nameA{
+  font-size: 20px;
+  margin:0px;
+  margin-left: 35px;
+  
+}
+
+
+  
+  .social{
+    font-family: Arial, Helvetica ou du sans-serif;
+    font-size: 20px;
+  margin-top: 25px;
+    padding-left: 70px;
+   
+  }
+  
+  .skill{
+    font-family: Arial, Helvetica ou du sans-serif;
+   font-size: 35px;
+    
+  }
+
+.date{
+  font-family: Arial, Helvetica ou du sans-serif;
+  margin-left: 35px;
+}
